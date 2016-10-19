@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# kibonzo_app
+toy app translated learning ruby on rails
+>>>>>>> 151cbfb76d25e74f6c4fe6770b6c11922ae78e13
