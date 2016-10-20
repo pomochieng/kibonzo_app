@@ -33,6 +33,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'web-console'
   gem 'spring'
+  gem 'listen'
 end
 
 group :production do
